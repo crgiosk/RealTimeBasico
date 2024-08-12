@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951940607062",
+    "project_id": "realtimebasico-5c785",
+    "storage_bucket": "realtimebasico-5c785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951940607062:android:69b5102235225f7aec5ff7",
+        "android_client_info": {
+          "package_name": "com.nsergio.dev.realtimebasico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW6i3WdDlt7EMlZE6w9MLRKd1LaugxKrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

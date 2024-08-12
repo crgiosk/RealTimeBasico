@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RealTimeBasico</string>
+    <string name="menu_item_title_add_todo">Add Todo</string>
+    <string name="dialog_add_task_title">Add Task</string>
+    <string name="dialog_add_task_hint_title">Titulo</string>
+    <string name="dialog_add_task_hint_description">Description</string>
+    <string name="add_task">Add Task</string>
+</resources>
